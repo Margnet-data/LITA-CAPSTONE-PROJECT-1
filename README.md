@@ -33,11 +33,7 @@ This project was completed using:
    - Removed duplicates and irrelevant columns.
    - Handled missing values to ensure accurate analysis.
 
-2. **New Column Creation**:
-   - Calculated **Subscription Duration** for products.
-   - Created a column to indicate the **status** of sales (e.g., active or cancelled).
-
-3. **Exploratory Data Analysis**:
+2. **Exploratory Data Analysis**:
    - Calculated average sales per product.
    - Identified top-performing product categories.
    - Analyzed seasonal and monthly sales trends.
