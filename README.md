@@ -7,7 +7,6 @@ This project analyzes the sales of products at a retail store to understand cust
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
 - [Methodology](#methodology)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Findings](#key-findings)
 - [SQL Queries](#sql-queries)
 - [Visualizations](#visualizations)
@@ -56,19 +55,28 @@ GROUP BY ProductName
 ORDER BY TotalSales DESC;
 ```
 
-#### 2.
+
+#### 2. Top 5 Selling Products
+```sql
+To find the top 5 products with the highest sales:
+
+SELECT TOP 5 ProductName, SUM(SalesAmount) AS TotalSales
+FROM [LITA Capstone Dataset CSV]
+GROUP BY ProductName
+ORDER BY TotalSales DESC;
+```
 
 
+#### 3. Monthly Sales Trend
+```sql
+SELECT MONTH(SaleDate) AS SaleMonth, SUM(SalesAmount) AS MonthlySales
+FROM [LITA Capstone Dataset CSV]
+GROUP BY MONTH(SaleDate)
+ORDER BY SaleMonth;
+```
 
 
-
-#### 3.
-
-
-
-
-
-#### 4.  
+#### 4.  Average Sales per Product
 ```sql
 SELECT ProductName, AVG(SalesAmount) AS AverageSales
 FROM [LITA Capstone Dataset CSV]
