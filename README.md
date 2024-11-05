@@ -54,3 +54,24 @@ SELECT ProductName, SUM(SalesAmount) AS TotalSales
 FROM [LITA Capstone Dataset CSV]
 GROUP BY ProductName
 ORDER BY TotalSales DESC;
+```
+
+#### 2.
+
+
+
+
+
+#### 3.
+
+
+
+
+
+#### 4.  
+```sql
+SELECT ProductName, AVG(SalesAmount) AS AverageSales
+FROM [LITA Capstone Dataset CSV]
+GROUP BY ProductName;
+```
+
