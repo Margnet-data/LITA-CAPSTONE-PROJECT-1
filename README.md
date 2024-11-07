@@ -92,7 +92,7 @@ This project analyzes the sales performance of various products in a retail stor
 
 Here is a visual representation of the sales analysis dashboard:
 
-![Sales Dashboard](https://github.com/Margnet-data/LITA-CAPSTONE-Project-2/blob/main/sales%20performance%20analysis.png)
+![Sales Dashboard](https://github.com/Margnet-data/LITA-CAPSTONE-Project-1/blob/main/sales%20performance%20analysis.png)
 
 # Insights and Recommendations
 
