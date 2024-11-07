@@ -83,3 +83,12 @@ FROM [LITA Capstone Dataset CSV]
 GROUP BY ProductName;
 ```
 
+# Project 1: Sales Analysis of Products for a Retail Store
+
+This project analyzes the sales performance of various products in a retail store using SQL and Power BI.
+
+## Dashboard
+
+Here is a visual representation of the sales analysis dashboard:
+
+![Sales Dashboard](https://github.com/Margnet-data/LITA-CAPSTONE-Project-2/blob/main/sales%20performance%20analysis.png)
