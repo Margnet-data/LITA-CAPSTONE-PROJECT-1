@@ -23,9 +23,9 @@ The data used for this analysis is sourced from the retail store's sales records
 
 ### Tools Used
 This project was completed using:
-- **Excel** for data cleaning and preliminary analysis.
-- **SQL Server** for data processing and querying.
-- **Power BI** for data visualization and dashboard creation.
+- **Excel** [Download Here](https://www.bing.com/ck/a?!&&p=fac614c77962a23d80489414f97b3eb17cbff4bb257b3f23ac21188706a1e54bJmltdHM9MTczMDg1MTIwMA&ptn=3&ver=2&hsh=4&fclid=3a45239c-55f3-6f6c-0fc3-37a154a86ea6&psq=download+excel+2016&u=a1aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvb2ZmaWNlL2Rvd25sb2FkLWFuZC1pbnN0YWxsLW9yLXJlaW5zdGFsbC1vZmZpY2UtMjAxOS1vZmZpY2UtMjAxNi1vci1vZmZpY2UtMjAxMy03YzY5NWIwNi02ZDFhLTQ5MTctODA5Yy05OGNlNDNmODY0Nzk&ntb=1)  for data cleaning and preliminary analysis.
+- **SQL Server** [Download Here](https://www.bing.com/ck/a?!&&p=8a738e8a2f9583b92e6c120f24487c228f8a1049a2e7482c9e2c967782691239JmltdHM9MTczMDg1MTIwMA&ptn=3&ver=2&hsh=4&fclid=3a45239c-55f3-6f6c-0fc3-37a154a86ea6&psq=download+sql+server&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zcWwtc2VydmVyL3NxbC1zZXJ2ZXItZG93bmxvYWRzP21zb2NraWQ9M2E0NTIzOWM1NWYzNmY2YzBmYzMzN2ExNTRhODZlYTY&ntb=1) for data processing and querying.
+- **Power BI** [Download Here](https://www.bing.com/ck/a?!&&p=a8d7ee4d09253ce1845a2be3c63f78d82b25bccc4ce36e835e904c815893cc00JmltdHM9MTczMDg1MTIwMA&ptn=3&ver=2&hsh=4&fclid=3a45239c-55f3-6f6c-0fc3-37a154a86ea6&psq=download+power+bi&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9wb3dlci1wbGF0Zm9ybS9wcm9kdWN0cy9wb3dlci1iaS9kb3dubG9hZHM_bXNvY2tpZD0zYTQ1MjM5YzU1ZjM2ZjZjMGZjMzM3YTE1NGE4NmVhNg&ntb=1)  for data visualization and dashboard creation.
 
 ### Methodology
 1. **Data Cleaning**: 
